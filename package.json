@@ -39,7 +39,9 @@
 		"webpack-dev-server": "^5.2.1"
 	},
 	"dependencies": {
+		"@types/lodash": "^4.17.16",
 		"@types/node": "^22.15.14",
+		"lodash": "^4.17.21",
 		"postcss-preset-env": "^10.1.5",
 		"typescript": "^5.8.3",
 		"webpack-merge": "^6.0.1"
