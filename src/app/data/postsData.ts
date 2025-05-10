@@ -1,10 +1,10 @@
-export interface IPost {
+export interface Post {
   id: string;
   title: string;
   body: string;
 }
 
-export const posts: IPost[] = [
+export const posts: Post[] = [
   {
     id: '62e69d5a5458aac0ed320b35',
     title: 'id labore ex et quam laborum',
